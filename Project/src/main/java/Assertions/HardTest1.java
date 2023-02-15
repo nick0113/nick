@@ -11,7 +11,7 @@ public class HardTest1 {
 	void demotest()
 	{
 		Assert.assertTrue(true);  //passed
-		Assert.assertEquals("Welcome", "Welcome");  //true-passed
+		//Assert.assertEquals("Welcome", "Welcome");  //true-passed
 		Assert.assertEquals("Nikhil", "Nikhil");   // true-passed
 		System.out.println("Successfully passed");
 		
